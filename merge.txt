@@ -1,0 +1,2 @@
+Add file merge.txt
+this was edited in master 
