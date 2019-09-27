@@ -1,2 +1,5 @@
 Add file merge.txt
+<<<<<<< HEAD
 this was edited in master 
+=======
+>>>>>>> add merge file
