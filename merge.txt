@@ -1,2 +1,4 @@
 Add file merge.txt
+<<<<<<< HEAD
 this was edited in master 
+and resolved from main branch
